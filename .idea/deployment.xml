@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@region-3.seetacloud.com:19179" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@region-11.autodl.com:11985">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_741" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:12461">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_771" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:13621">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_941" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:18180">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_695" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:18307">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_696" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:25299">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_961" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:26983">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_225" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:27235">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_285" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-11.autodl.com:29963">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_896" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-3.seetacloud.com:19179">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_615" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-4.autodl.com:45938">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.autodl.com:21851">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.autodl.com:28955">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:14604">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_388" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:21851">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_93" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:34667">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_176" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-8.seetacloud.com:27213">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_993" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
